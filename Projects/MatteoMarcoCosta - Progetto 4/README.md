@@ -60,7 +60,6 @@ Applicazione di modelli di regressione logistica.
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Imbalanced-learn
 
 ---
 
